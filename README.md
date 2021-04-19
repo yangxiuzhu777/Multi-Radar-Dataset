@@ -7,7 +7,7 @@ ___CreateTime___：_`04.19.2021`_
 ***
 
 ## Experimental setup and dataset generation scenarios.
-### `Experimental setup`
+### `Experimental setup` [1]
 ![zone](https://github.com/yangxiuzhu777/Multi-Radar-Dataset/blob/main/pic/zone%20A%26B.png) 
 
 ### `Scenario 1`、`Scenario 2`
@@ -19,3 +19,5 @@ ___CreateTime___：_`04.19.2021`_
 -  `In addiction` : Only data of IR-UWB radars are included.
 The data size of FMCW radar is out of limit. 
 Please contact email yangxiuzhu@bupt.edu.cn if you need
+
+[1] The picture is derived from the paper
