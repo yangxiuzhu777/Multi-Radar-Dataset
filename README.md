@@ -16,3 +16,6 @@ ___CreateTime___：_`04.19.2021`_
 
 `Scenario 1`：Scenario 2 involves two people lie down and sit at zones A and B respectively
 
+-  `In addiction` : Only data of IR-UWB radars are included.
+The data size of FMCW radar is out of limit. 
+Please contact email yangxiuzhu@bupt.edu.cn if you need
