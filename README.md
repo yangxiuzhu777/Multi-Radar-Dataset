@@ -14,7 +14,7 @@ ___CreateTime___：_`04.19.2021`_
 
 `Scenario 1`：the people in zone A sits and the other people stands in zone B, with both of their bodies facing to radars.
 
-`Scenario 1`：Scenario 2 involves two people lie down and sit at zones A and B respectively
+`Scenario 2`：Scenario 2 involves two people lie down and sit at zones A and B respectively
 
 -  `In addiction` : Only data of IR-UWB radars are included.
 The data size of FMCW radar is out of limit. 
