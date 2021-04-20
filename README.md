@@ -1,8 +1,6 @@
 # Multi-Radar-Dataset
 
 ***
-___Author___：_`DY`_
-
 ___CreateTime___：_`04.19.2021`_
 ***
 
